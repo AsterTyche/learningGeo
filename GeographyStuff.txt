@@ -119,7 +119,7 @@ Malta,Valletta,35.54N,14.31E,118
 Martinique,Fort-de-France,14.36N,61.02W,119
 Mauritania,Nouakchott,20.10S,57.30E,120
 Mayotte,Mamoudzou,12.48S,45.14E,121
-Mexico,New Mexico,19.20N,99.10W,122
+Mexico,Mexico City,19.20N,99.10W,122
 Micronesia,Palikir,06.55N,158.09E,123
 Moldova,Chisinau,47.02N,28.50E,124
 Mozambique,Maputo,25.58S,32.32E,125
